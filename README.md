@@ -12,7 +12,8 @@
 
 ## What I Learned
 
-* XXX
+* Python Django
+* Materialze CSS
 
 ## Contact Me (Code Advocate)
 
@@ -26,5 +27,5 @@ This project is licensed under the MIT License
 
 ## Acknowledgments
 
-* [Originator's Youtube]()
-* []()
+* [Originator's Youtube](https://www.youtube.com/watch?v=D6esTdOLXh4)
+* [Originator's Github](https://github.com/bradtraversy/djangocrashcourse)
